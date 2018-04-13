@@ -1,5 +1,6 @@
 # Technical-Interview
-Run the script using a user with sudo privileges, using the below command  
+This script was designed and tested in ubuntu version 16.04  
+Run the script using a user with sudo privileges, using the below command. The chmod command may need to be run before to make it executable  
 $ sudo ./gitandhttps.sh  
   
 ---Running Scripts on the Server---  
